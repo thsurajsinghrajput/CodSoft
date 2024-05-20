@@ -32,7 +32,7 @@ Created a simple and intuitive calculator application that performs basic arithm
 - JavaScript
 
 **Live Demo:**
-[![Live Demo] (https://thsurajsinghrajput.github.io/CodSoft/calculator/)
+[Live Demo](https://thsurajsinghrajput.github.io/CodSoft/calculator/)
 
 ---
 
@@ -47,7 +47,7 @@ Designed and developed a personal portfolio website to showcase my projects, ski
 - JavaScript
 
 **Live Demo:**
-[![Live Demo](https://thsurajsinghrajput.github.io/CodSoft/portfolio/)
+[Live Demo](https://thsurajsinghrajput.github.io/CodSoft/portfolio/)
 
 ---
 
