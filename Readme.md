@@ -19,7 +19,10 @@ Developed a responsive and visually appealing landing page for a NFT selling pla
   
 **Screenshot:**
 
+
 ![Screenshot 1](https://thsurajsinghrajput.github.io/CodSoft/landing_page/snapshot/s1.png)
+
+
 
 
 **Live Demo:**
@@ -37,6 +40,9 @@ Created a simple and intuitive calculator application that performs basic arithm
 - HTML
 - CSS
 - JavaScript
+
+**Screenshot:**
+![Screenshot 1](https://thsurajsinghrajput.github.io/CodSoft/calculator/snapshot/s1.png)
 
 **Live Demo:**
 [Live Demo](https://thsurajsinghrajput.github.io/CodSoft/calculator/)
