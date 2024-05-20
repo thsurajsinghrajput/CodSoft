@@ -44,6 +44,7 @@ Created a simple and intuitive calculator application that performs basic arithm
 **Screenshot:**
 ![Screenshot 1](https://thsurajsinghrajput.github.io/CodSoft/calculator/snapshot/s1.png)
 
+
 **Live Demo:**
 [Live Demo](https://thsurajsinghrajput.github.io/CodSoft/calculator/)
 
@@ -58,6 +59,8 @@ Designed and developed a personal portfolio website to showcase my projects, ski
 - HTML
 - CSS
 - JavaScript
+**Screenshot:**
+![Screenshot 1](https://thsurajsinghrajput.github.io/CodSoft/portfolio/snapshot/s1.png)
 
 **Live Demo:**
 [Live Demo](https://thsurajsinghrajput.github.io/CodSoft/portfolio/)
