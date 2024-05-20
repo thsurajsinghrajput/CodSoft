@@ -16,6 +16,12 @@ Developed a responsive and visually appealing landing page for a NFT selling pla
 - JavaScript
 - Bootstrap
 
+  
+**Screenshot:**
+
+![Screenshot 1](https://github.com/thsurajsinghrajput/CodSoft/landing_page/snapshot/s1.png)
+
+
 **Live Demo:**
 [Live Demo](https://thsurajsinghrajput.github.io/CodSoft/landing_page/)
 
