@@ -57,7 +57,7 @@ body {
 }
 
 .img {
-  background-image: url("nft_img.png");
+  background-image: url("img/nft_img.png");
 }
 
 .conatiner {
@@ -81,26 +81,108 @@ body {
 
 
 }
+.box:hover{
+  transition: 1s;
+    width: 250px;
+      height: 250px;
+
+}
 
 .boxImg {
   clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 20%);
 
   width: 180px;
   height: 180px;
-  background-image: url(rim.jpg);
+  background-image: url(img/rim.jpg);
   background-size: cover;
   background-position: center;
 }
+.boxImg:hover{
+  width: 225px;
+  height: 225px;
+  transition: 1s;
 
-.boxText {
+}
 
-  background-color: white;
-  rotate: 90deg;
-  position: absolute;
-  margin-top: 300px;
-  width: 180px;
-  height: 180px;
 
-  background-size: cover;
-  background-position: center;
+.footer {
+ 
+
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-section {
+  flex: 1;
+  min-width: 200px;
+  margin: 10px;
+}
+
+.footer-section h3 {
+  border-bottom: 2px solid #ffffff;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.footer-section p,
+.footer-section ul {
+  margin: 10px 0;
+}
+
+.footer-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin: 5px 0;
+}
+
+.footer-section ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-section ul li a:hover {
+  color: #ff9900;
+}
+
+.social-links a {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.social-links img {
+  width: 24px;
+  height: 24px;
+  filter: brightness(0) invert(1);
+  transition: filter 0.3s;
+}
+
+.social-links img:hover {
+  filter: brightness(0) invert(0.6);
+}
+
+.footer-bottom {
+  text-align: center;
+  padding: 10px;
+
+}
+
+.footer-bottom p {
+  margin: 0;
+}
+.social-links i{
+  
+  color: aqua;
 }
