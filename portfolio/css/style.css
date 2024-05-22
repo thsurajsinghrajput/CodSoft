@@ -32,12 +32,22 @@
 }
 
 
+
+
 /* Utilities function */
 
 .container {
     max-width: 1320px;
     margin-inline: auto;
     padding-inline: 15px;
+}
+
+.ex {
+    font-size: medium;
+    text-align: center;
+    position: absolute;
+    margin-top: 17px;
+    color: aqua;
 }
 
 .flex {
@@ -314,6 +324,7 @@ span.Me {
     height: 100vh;
     margin-top: max(50px, 5%);
     background-color: var(--secondary-bg-color);
+
 }
 
 .Skills-offfer {
@@ -335,10 +346,15 @@ span.Me {
     gap: 30px;
     justify-content: space-evenly;
     padding: 10px 0;
-    width: 30%;
+    width: 100%;
     padding-inline: 29px;
     transition: 0.4s ease;
     cursor: pointer;
+    display: flex;
+}
+
+.boxes-Skills i {
+    display: inline-block;
 }
 
 .intro {
@@ -369,6 +385,7 @@ span.Me {
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     align-items: center;
+
 }
 
 .box-project {
@@ -494,6 +511,13 @@ li,
     color: var(--hover-colors);
 }
 
+.logo img {
+
+    width: 50px;
+    height: 50px;
+
+}
+
 /* social media hover icons */
 
 .social-media a:hover {
@@ -523,3 +547,37 @@ li,
     transform: translateY(0%);
     color: var(--background-color);
 }
+
+.journey {
+    width: 100%;
+    height: 400px;
+
+}
+
+.project {
+    width: 100%;
+    height: 400px;
+}
+.viewProject{
+    width: 200px;
+    height: 40px;
+   background:none;
+    color: pink;
+    border-radius: 20px;
+    border: 1px solid green;
+
+}
+.viewProject:hover{
+    background-color: green;
+}
+
+.intro a{
+    color: red;
+}
+
+.box-project img{
+    width: 400px;
+    height: 200px;
+}
+
+
